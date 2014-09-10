@@ -60,7 +60,7 @@ Tasks: http://bb.damina.org/ds
 See http://bb.damina.org/ngin2/issues
 
 ## Лёша
-* мейл
+* Мейл !
 
 ## Развитие Web-dev 
 
