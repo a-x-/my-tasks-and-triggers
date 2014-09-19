@@ -24,6 +24,8 @@ See http://bb.damina.org/ngin2/issues
 
 ## Быт
 * [Найти стул](http://www.avito.ru/moskva/mebel_i_interer/kompyuternye_stoly_i_kresla?metro=29-103-2142&q=кресло&s=1).
+* [Получить карту Авангарда](https://www.avangard.ru/ccorder/faces/step2.jspx).
+* Посмотреть ролик Алёны, ролик про осознанный сон.
 
 ## Lenovo
 * Купить RAM (1600, 1.5, 11)
