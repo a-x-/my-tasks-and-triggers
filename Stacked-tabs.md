@@ -176,3 +176,42 @@ http://www.factroom.ru/facts/56058
 
 Тренировка мозга и ее геймификация
 http://habrahabr.ru/post/236945/
+
+Github pages + jekyll
+https://help.github.com/articles/using-jekyll-with-pages
+https://github.com/jekyll/jekyll
+http://jekyllrb.com
+
+http://a-x-.github.io
+
+Статические сайты: настройка и оптимизация
+http://habrahabr.ru/company/selectel/blog/237159/
+> Оптимизация производительности сайтов
+
+Minimalist Vim Plugin Manager
+https://github.com/junegunn/vim-plug
+•Минималистичный плагин менеджер для Vim // Круть!
+
+
+
+
+http://habrahabr.ru/post/237609/
+http://gpsd.co/UltraIcons-210-free-icons/97
+http://www.youthedesigner.com/graphic-design-tips/9-fonts-brands-should-avoid-in-2014/
+http://blog.usabilla.com/flat-design-just-trend-apparently/
+http://briefbox.me/
+http://lifehacker.ru/2014/09/19/turbodizajn/
+http://siliconrus.com/2014/09/google-2/
+http://www.sitepoint.com/5-typical-javascript-interview-exercises/
+http://www.designyourway.net/blog/resources/learn-about-front-end-style-guides/
+https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/
+https://github.com/sindresorhus/pageres
+http://www.smashingmagazine.com/2014/09/15/making-modal-windows-better-for-everyone/
+http://habrahabr.ru/post/236785/
+http://habrahabr.ru/company/zfort/blog/237595/
+http://habrahabr.ru/post/237581/
+http://habrahabr.ru/company/zfort/blog/237603/
+http://habrahabr.ru/company/yandex/blog/237459/
+http://habrahabr.ru/post/237421/
+http://www.phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html
+http://habrahabr.ru/post/237307/

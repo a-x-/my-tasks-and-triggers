@@ -1,13 +1,16 @@
 # TASKS #
+https://github.com/a-x-/my-tasks-and-triggers/blob/master/tasks.md
 
 ## Развитие  (книги)
 * Системное мышление, диалектика, ведение споров (триз)
+    - https://ru.wikipedia.org/wiki/Логическая_ошибка
 * как завоевывать друзей и влиять на людей (Дейл Карнеги)
 * память (запомнить все) 
     * http://blog.mann-ivanov-ferber.ru/2014/04/06/nash-avtor-v-knige-rekordov-rossii/ — «Помнить все»
 * теория категорий, функциональное программирование, матроиды, моноиды (хаскел)
 * английский язык
 * (Психбольница в руках пациентов), (Как пасти котов)
+* 
 
 ## SEO
 * # TT-Psy. See [TT-Psy.md](/TT-Psy.md)
@@ -64,10 +67,23 @@ See http://bb.damina.org/ngin2/issues
 * Контейнеризацией (docker). Core OS.
 
 ### Backend
+
+SSL
+
+Внедрить SSL
+
+OpenSSL changes in PHP 5.6.x  http://ru2.php.net/manual/ru/migration56.openssl.php
+
 ##### PHP
 ###### Нужно обозреть php фреймворки: codeigniter > kohana > yii > laravel (Symfony2?)
 http://vschart.com/compare/laravel/vs/yii -- сравнение laravel — yii.
 http://wiki4tech.ru/Сравнение_PHP-фреймворков -- сравнение php фреймворков (+ссылки на другие сравнения).
+
+###### PHP 5.6
+
+Релиз!
+
+Вычисляемые константы, ...-operator!
 
 ###### Поразбираться с composer.
 
