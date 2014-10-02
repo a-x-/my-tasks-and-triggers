@@ -215,3 +215,35 @@ http://habrahabr.ru/company/yandex/blog/237459/
 http://habrahabr.ru/post/237421/
 http://www.phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html
 http://habrahabr.ru/post/237307/
+
+
+
+
+
+9 сервисов обучения программированию
+http://siliconrus.com/2014/03/code/
+
+«Яндекс» купил аналитический сервис для интернет-магазинов PriceLabs
+http://www.the-village.ru/village/hopesandfears/news/165765-yandex-pricelabs
+
+
+Отличный измерятор (берёт скрин из буфера, и даёт линейку)
+http://www.rapidtables.com/web/tools/pixel-ruler.htm
+
+10 Tips for Optimizing MySQL Queries (That don't suck)
+http://20bits.com/article/10-tips-for-optimizing-mysql-queries-that-dont-suck
+
+Yii 2.0 RC 
+http://habrahabr.ru/post/238447/
+
+Как мы тестируем CSS-регрессии с Gemini. Доклад на BEMup в Яндексе 
+http://habrahabr.ru/company/yandex/blog/238323/
+
+Что нового в Laravel 5?
+http://habrahabr.ru/post/238017/
+
+Add Rules to Stylesheets with JavaScript
+http://davidwalsh.name/add-rules-stylesheets
+
+A curated list of SVG. 
+https://github.com/willianjusten/awesome-svg

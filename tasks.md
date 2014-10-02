@@ -2,15 +2,17 @@
 https://github.com/a-x-/my-tasks-and-triggers/blob/master/tasks.md
 
 ## Развитие  (книги)
+* как завоевывать друзей и влиять на людей (Дейл Карнеги)
+* Психология жестов
 * Системное мышление, диалектика, ведение споров (триз)
     - https://ru.wikipedia.org/wiki/Логическая_ошибка
-* как завоевывать друзей и влиять на людей (Дейл Карнеги)
 * память (запомнить все) 
     * http://blog.mann-ivanov-ferber.ru/2014/04/06/nash-avtor-v-knige-rekordov-rossii/ — «Помнить все»
 * теория категорий, функциональное программирование, матроиды, моноиды (хаскел)
-* английский язык
+* английский язык (грамматика, речь)
 * (Психбольница в руках пациентов), (Как пасти котов)
-* 
+* http://bakhirev.biz/book/#nzZQP — Сюрреализм на JavaScript
+
 
 ## SEO
 * # TT-Psy. See [TT-Psy.md](/TT-Psy.md)
@@ -26,9 +28,12 @@ See http://bb.damina.org/ngin2/issues
 
 
 ## Быт
-* [Найти стул](http://www.avito.ru/moskva/mebel_i_interer/kompyuternye_stoly_i_kresla?metro=29-103-2142&q=кресло&s=1).
+* ~~[Найти стул](http://www.avito.ru/moskva/mebel_i_interer/kompyuternye_stoly_i_kresla?metro=29-103-2142&q=кресло&s=1)~~.
+* ~~Привезти стул~~
 * [Получить карту Авангарда](https://www.avangard.ru/ccorder/faces/step2.jspx).
-* Посмотреть ролик Алёны, ролик про осознанный сон.
+* Посмотреть ролики ~~ролик Алёны~~, ~~ролик про осознанный сон~~, про школу.
+* Подарить маме домен `mekhonoshina.ru`
+* Купить `mekhonoshin.ru`
 
 ## Lenovo
 * Купить RAM (1600, 1.5, 11)
@@ -105,6 +110,10 @@ http://wiki4tech.ru/Сравнение_PHP-фреймворков -- сравн�
 * Рассмотреть Hg (aka ртутный, aka mercurial). Видимо он лучше работает с подмодулями чем Git. **TODO** выяснить это.
 * Скаффолдинг (генерация заготовки проекта (англ. bootstrap))
     - http://frontender.info/skaffolding-dlya-frontenderov/ — Скаффолдинг (Yoman и всё все всё)
+* Fail2ban  http://www.fail2ban.org/wiki/index.php/Main_Page
+  > Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc. Generally Fail2Ban is then used to update firewall rules to reject the IP addresses for a specified amount of time, although any arbitrary other action (e.g. sending an email) could also be configured. Out of the box Fail2Ban comes with filters for various services (apache, courier, ssh, etc). 
+  >Fail2Ban is able to reduce the rate of incorrect authentications attempts however it cannot eliminate the risk that weak authentication presents. Configure services to use only two factor or public/private authentication mechanisms if you really want to protect services. 
+
 
 
 ### Frontend
