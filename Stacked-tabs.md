@@ -247,3 +247,31 @@ http://davidwalsh.name/add-rules-stylesheets
 
 A curated list of SVG. 
 https://github.com/willianjusten/awesome-svg
+
+Как развить дедуктивный метод мышления
+http://www.lookatme.ru/mag/how-to/inspiration-howitworks/200155-deduction
+
+Как правильно хранить продукты дома
+http://www.the-village.ru/village/food/cuisine/166007-kak-hranit-produkty-doma
+
+«Деловой этикет»: Как правильно общаться с бизнес-партнёрами
+http://www.the-village.ru/village/hopesandfears/case/165729-delovoy-etiket-kak-pravilno-obschatsya-s-biznes-partnyorami
+
+Руководство для дизайнера по DPI
+http://habrahabr.ru/post/237931/
+
+Трансдьюсеры в JavaScript
+http://habrahabr.ru/post/237613/
+http://habrahabr.ru/post/237733/
+
+Генератор функциональных парсеров на JavaScript (с трансдьюсерами)
+http://habrahabr.ru/post/238007/
+
+Разбираемся с монадами с помощью Javascript
+http://habrahabr.ru/post/238171/
+
+Свежий взгляд на Rust
+http://habrahabr.ru/post/239067/
+
+Семантика в HTML5
+http://htmlbook.ru/blog/semantika-v-html5
